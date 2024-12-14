@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyTask</string>
+
+    <!-- Country options for the Spinner -->
+    <string-array name="countries">
+        <item>Nepal</item>
+        <item>India</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Australia</item>
+    </string-array>
+
+    <!-- City options for AutoCompleteTextView -->
+    <string-array name="cities">
+        <item>Kathmandu</item>
+        <item>Delhi</item>
+        <item>New York</item>
+        <item>London</item>
+        <item>Sydney</item>
+    </string-array>
+</resources>
